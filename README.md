@@ -26,6 +26,6 @@ Program ini adalah sebuah aplikasi sederhana untuk pengelolaan data mahasiswa. D
 
 ### Screen Records
 
-[Screen record program](Screenshots/2F2024-03-24%2013-05-21.mkv)
+[Screen record program](Screenshots)
 
 
